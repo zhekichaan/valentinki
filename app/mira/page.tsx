@@ -4,13 +4,13 @@ import { useState } from "react";
 
 export default function Mira() {
   const [image, setImage] = useState(
-    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707883513/valent/miraclose_gzr3e3.png"
+    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707886743/valent/miraclose_ga77qr.png"
   );
   const [width, setWidth] = useState("mx-auto w-[500px]");
   const openImg =
-    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707883514/valent/miraopen_zbpf7n.png";
+    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707886744/valent/miraopen_uth2qa.png";
   const closeImg =
-    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707883513/valent/miraclose_gzr3e3.png";
+    "https://res.cloudinary.com/dvpw1seyg/image/upload/v1707886743/valent/miraclose_ga77qr.png";
   const closeWidth = "mx-auto w-[500px]";
   const openWidth = "mx-auto w-[1000px]";
 
